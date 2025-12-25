@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "c4c2d474c6488e2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "82ca5542141a6783",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04178e0f8ac38cd5",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2f53da1eed0671b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7d09b5261d70755",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33ad0d41539d416f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "80e819bb8252f958",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "dbe38bcd3704e2f5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fc30120f1e1e78fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "e22b158f24eb197c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1710fb71a63dd8c7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "40d7c89e3f7a55ca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "1f5160cea2c8d941",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "51ff62912db1e961",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ab4597eb24433630",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "33ad0d41539d416f",
+  "lastOpenFiles": [
+    "AWS/Untitled",
+    "MQTT/MQTT Technical Concepts.md",
+    "MQTT/Security in MQTT.md",
+    "AWS/Gateways/Gateways for IoT and Hybrid Structures.md",
+    "AWS/Gateways/Gateways for Private Subnets.md",
+    "AWS/Gateways/Gateways for Public Subnets.md",
+    "AWS/Gateways/Gateway.md",
+    "AWS/Route Tables/Route Tables Key Concepts.md",
+    "AWS/Gateways/Untitled",
+    "AWS/Gateways",
+    "AWS/Route Tables/Route Tables Anatomy.md",
+    "AWS/Route Tables/Route Tables Core.md",
+    "AWS/Route Tables",
+    "AWS/IPV4 CIDR/IPV4 CIDR Core.md",
+    "AWS/IPV4 CIDR"
+  ]
+}
