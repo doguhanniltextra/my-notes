@@ -125,6 +125,13 @@
         "a": 1,
         "rgb": 16777215
       }
+    },
+    {
+      "query": "path:AWS/IAM  ",
+      "color": {
+        "a": 1,
+        "rgb": 5395121
+      }
     }
   ],
   "collapse-display": false,
@@ -137,6 +144,6 @@
   "repelStrength": 17.2151692708333,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.35324101745924186,
+  "scale": 0.2719739685845291,
   "close": false
 }
